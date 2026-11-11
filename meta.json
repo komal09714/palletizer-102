@@ -9,7 +9,7 @@
   }
 ],
   "visibility": "private",
-  "url": "",
+  "url": "https://github.com/komal09714/palletizer-102",
   "description": "Generic palletizing service for controlling a robotic arm and pallet operations.",
   "markdown_link": "README.md",
   "entrypoint": "dist/main",
